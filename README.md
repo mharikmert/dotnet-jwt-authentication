@@ -28,13 +28,13 @@ User password assigned as null, and the token returns to the client in the respo
 ### Auth request with correct user credentials 
 ![auth request](https://user-images.githubusercontent.com/42295478/127878877-1319811f-266a-4c2d-9d16-dc23e56996ec.png)
 
-### Auth response and Produced Web Token
+### Auth response and produced token
 ![auth response ](https://user-images.githubusercontent.com/42295478/127878965-f5d73236-7878-4c18-87a4-b358da6e4b90.png)
 
 ### Auth request with incorrect user credentials
 ![wrong request](https://user-images.githubusercontent.com/42295478/127880572-c1c7bada-181b-402e-8755-0f88ec1c724a.png)
 
-### Auth response as bad request
+### Auth response 
 ![bad reqeust](https://user-images.githubusercontent.com/42295478/127880636-c2d435a1-56d1-4b1c-9fde-728d56e3b24e.png)
 
 

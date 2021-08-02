@@ -48,6 +48,7 @@ namespace dotnet_jwt_authentication
                         ValidateAudience = false
                     };
                 });
+            
             services.AddScoped<IUserService, UserService>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
